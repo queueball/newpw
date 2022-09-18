@@ -52,3 +52,5 @@ def main(salt, size, iterations):
 
 if __name__ == "__main__":
     main()
+
+# AUTOBIN: newpw
